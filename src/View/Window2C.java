@@ -36,19 +36,6 @@ import java.util.stream.Collectors;
 
 
 
-// alert.showandWait();--practic
-//POPUP TYPECHECK SI EXCEPTII!!
-//MECANISME THREADURI DIN SEMINAR;
-//REPEAT, SWITCH --fa de dianinte
-//DO WHILE
-//Statement v=Exp1?Exp2:Exp3 + if in statement: if(exp1) then exp2 else exp 3 + typecheck exp1 =exp si exp1-bool => heap
-//v=0;repeat(fork(print v);v=v-1);v=v+1;--repeat fork
-//Uitate in program.txt(seminar arhiva mecanisme) pt loc fork + statement mecanisme
-
-
-//generice,streamuri --teoretic
-//pdf din seminar cu generice => uitate la clase
-//casting, instance of,atomic variable, overloading,overriding --Curs --pt Teorie
 public class Window2C implements Initializable {
 
     Controller current;
