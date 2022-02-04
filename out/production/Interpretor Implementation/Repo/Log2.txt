@@ -1,0 +1,737 @@
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+
+2
+ExeStack:
+int a
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b;a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+int b
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5;b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+a=2 + 3 * 5
+b=a + 1;print(b)
+
+SymTable:
+a->0; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1;print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+b=a + 1
+print(b)
+
+SymTable:
+a->17; b->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+print(b)
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+2
+ExeStack:
+
+SymTable:
+a->17; b->18; 
+HeapTable: 
+FileTable:
+
+Out: 18, 
+

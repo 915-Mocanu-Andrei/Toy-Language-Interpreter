@@ -1,0 +1,762 @@
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc;ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 
+
+4
+ExeStack:
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 15, 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 15, 
+
+4
+ExeStack:
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 15, 
+
+4
+ExeStack:
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@580b80e2; 
+Out: 15, 50, 
+
+4
+ExeStack:
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+
+Out: 15, 50, 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc;ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 
+
+4
+ExeStack:
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 15, 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 15, 
+
+4
+ExeStack:
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 15, 
+
+4
+ExeStack:
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@3f3490e9; 
+Out: 15, 50, 
+
+4
+ExeStack:
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+
+Out: 15, 50, 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc;ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->0; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 
+
+4
+ExeStack:
+print(varc)
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 
+
+4
+ExeStack:
+ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 15, 
+
+4
+ExeStack:
+ReadFile varf
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->15; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 15, 
+
+4
+ExeStack:
+print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 15, 
+
+4
+ExeStack:
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@365f41d8; 
+Out: 15, 50, 
+
+4
+ExeStack:
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; varc->50; 
+HeapTable: 
+FileTable:
+
+Out: 15, 50, 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc;ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in;OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf;varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+string varf
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+varf=D:\Interpretor\Interpretor Implementation\src\test.in
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf;int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+OpenRFile varf
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+4
+ExeStack:
+int varc
+ReadFile varf;print(varc);ReadFile varf;print(varc)
+CloseReadFile varf
+
+SymTable:
+varf->D:\Interpretor\Interpretor Implementation\src\test.in; 
+HeapTable: 
+FileTable:
+D:\Interpretor\Interpretor Implementation\src\test.in->java.io.BufferedReader@6cfe245d; 
+Out: 
+

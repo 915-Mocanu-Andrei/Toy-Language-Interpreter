@@ -1,0 +1,332 @@
+5
+ExeStack:
+bool a
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+bool a
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+bool a
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+bool a
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+a=9 < 123
+If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+If a then v=2 else v=3;print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+If a then v=2 else v=3
+print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+v=2
+print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+print(v)
+
+SymTable:
+a->true; v->2; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+
+SymTable:
+a->true; v->2; 
+HeapTable: 
+FileTable:
+
+Out: 2, 
+
+5
+ExeStack:
+bool a
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v;a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+int v
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+a=9 < 123;If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+a=9 < 123
+If a then v=2 else v=3;print(v)
+
+SymTable:
+a->false; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+If a then v=2 else v=3;print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+If a then v=2 else v=3
+print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+v=2
+print(v)
+
+SymTable:
+a->true; v->0; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+print(v)
+
+SymTable:
+a->true; v->2; 
+HeapTable: 
+FileTable:
+
+Out: 
+
+5
+ExeStack:
+
+SymTable:
+a->true; v->2; 
+HeapTable: 
+FileTable:
+
+Out: 2, 
+
