@@ -35,7 +35,6 @@ import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
 
-
 public class Window2C implements Initializable {
 
     Controller current;
